@@ -1,7 +1,8 @@
 # 🚗 Vehicle Audit Dashboard (Power BI + Power Apps)
 
 An interactive dashboard and audit entry system designed to track, analyze, and improve vehicle inspection processes. Combines Power BI for reporting and Power Apps for real-time defect entry, integrated with automated workflows to streamline operations.
-<img width="1377" height="769" alt="image" src="https://github.com/user-attachments/assets/bff5c81c-25c8-4c0e-ada8-d0abe67b740f" />
+
+<img width="1375" height="771" alt="image" src="https://github.com/user-attachments/assets/044494b5-36fb-4341-8354-a551e769ecb9" />
 
 
 ## ✨ Features
