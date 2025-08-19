@@ -2,8 +2,11 @@
 
 An interactive dashboard and audit entry system designed to track, analyze, and improve vehicle inspection processes. Combines Power BI for reporting and Power Apps for real-time defect entry, integrated with automated workflows to streamline operations.
 
+**Project Draft**
 <img width="1375" height="771" alt="image" src="https://github.com/user-attachments/assets/044494b5-36fb-4341-8354-a551e769ecb9" />
 
+**Actual**
+<img width="1354" height="766" alt="image" src="https://github.com/user-attachments/assets/3b982490-6592-4036-84c0-c876607f431e" />
 
 ## ✨ Features
 - 📊 **Defect Tracking & Scoring**:
